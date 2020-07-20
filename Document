@@ -1,0 +1,22 @@
+Day 1 : Assignment *
+What is python?
+
+Python is a general purpose,dynamically-typed,Object Oriented, Interpreted Programming Language.
+1. Using Anaconda Navigator
+Open www.anaconda.com
+Select Individual Edition
+Download it for your OS & Install it.
+
+2. From Official Python site
+Open www.python.org
+Download python installer
+
+2. What are code environments and Types of code environments?
+
+Code Environment is a place where you can write down the program, compile the code and see the output of code at same place.
+
+Types of Code Environments:
+
+1. Text Editors eg: Notepad, VS Code
+2. Full IDEs eg: Spyder, Pycharm
+3. Notebook Environments eg: Jupyter notebook, Google Colab
